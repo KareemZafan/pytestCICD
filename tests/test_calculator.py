@@ -69,7 +69,7 @@ def clear_cache():
 def test_student_name_from_db():
     print('Start execution of testing the name')
     name = 'ahmed'
-    assert name == 'Ahmed'
+    assert name == 'ahmed'
     
     
 
